@@ -8,9 +8,9 @@ I'm a strategic data analyst with a passion for leveraging data insights to driv
 - **Python Libraries:** Pandas, Seaborn, Numpy, Matplotlib
 - **Data Visualization:** Tableau, ⬆(well, these too)⬆
 - **Certifications:** 
+  - [Databases and SQL for Data Science with python](https://coursera.org/verify/LDVKZNR8W2JK)
   - [IBM Data Analyst](https://coursera.org/verify/professional-cert/POHES5LR4D4G)
   - [Data Visualization with Tableau](https://coursera.org/share/0c05b0b2d378fc121e230741570605ee)
-  - [Databases and SQL for Data Science with python](https://coursera.org/verify/LDVKZNR8W2JK)
   - [Data visualization and dashboards with Excel](https://coursera.org/verify/QRKRLEE3KRH2)
 
 ## 📈 Projects
